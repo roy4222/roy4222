@@ -7,7 +7,7 @@
 ## 關於我
 
 - 🌍 **所在地**：台灣台北
-- 📫 **聯繫方式**：[roy422roy@gmail.com](mailto:roy422roy@gmail.com) | [LinkedIn](www.linkedin.com/in/roy4222) | [個人網站](https://roy4222.my.canva.site)
+- 📫 **聯繫方式**：[roy422roy@gmail.com](mailto:roy422roy@gmail.com) | [LinkedIn](https://www.linkedin.com/in/roy4222/) | [個人網站](https://roy4222.my.canva.site)
 - 💻 **技術熱情**：全端開發（React、Firebase）、AI 整合（Groq API）、無伺服器架構（Cloudflare Workers）
 - 🌱 **正在學習**：Spring Boot、TypeScript、Three.js
 - 📊 **GitHub 貢獻**：2024-2025 年累積 799+ 次提交，寒假期間完成 600+ 次技術練習
@@ -70,7 +70,7 @@
 歡迎透過以下方式與我聯繫：  
 
 - 📧 **電子郵件**：[roy422roy@gmail.com](mailto:roy422roy@gmail.com)  
-- 🔗 **LinkedIn**：[www.linkedin.com/in/roy4222](www.linkedin.com/in/roy4222)  
+- 🔗 **LinkedIn**：[roy4222](https://www.linkedin.com/in/roy4222/)  
 - 🌐 **個人網站**：[roy4222.my.canva.site](https://roy4222.my.canva.site)
 
 ## GitHub 統計

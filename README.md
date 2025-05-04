@@ -48,9 +48,9 @@
 - 為輔仁大學心理學系設計的 AI 智能學習助理，支援 FAQ 智慧搜尋、個人化對話與教育資源推薦，提升學生學習效率。
 - 採用 RAG（Retrieval-Augmented Generation）技術，結合 Groq API（LLaMA 4、DeepSeek R1）進行自然語言處理與知識檢索，實現精準的問答與內容生成。
 - 使用 Cohere 嵌入模型將文本轉換為向量表示，並透過 Pinecone 向量資料庫實現高效的語義搜尋與相似度匹配。
-- 系統架構使用 React 18 建構前端，Firebase（Firestore、Auth）管理用戶資料與問答紀錄，透過 Cloudflare Pages 部署，確保高效存取與穩定性。
+- 系統架構使用 Nextjs 建構前端，Firebase（Firestore、Auth）管理用戶資料與問答紀錄，透過 Cloudflare Pages 和 Workers部署，確保高效存取與穩定性。
 - 用戶頭像與資源檔案儲存於 Cloudflare R2，優化儲存效率。
-- **技術棧**：React, Firebase, Groq API (RAG), Cohere, Pinecone, Cloudflare R2/Pages
+- **技術棧**：Nextjs, Firebase, Groq API (RAG), Cohere, Pinecone, Cloudflare R2/Pages/Workers
 
 ### 心理健康 LINE Bot
 *[GitHub 倉庫](https://github.com/roy4222/line-bot_1.0) | 2024 年 10 月 - 11 月*  
